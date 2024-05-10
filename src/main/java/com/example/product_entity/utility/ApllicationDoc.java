@@ -16,7 +16,7 @@ import io.swagger.v3.oas.models.info.Info;
 public class ApllicationDoc {
 	
 	io.swagger.v3.oas.models.info.Contact contact() {
-		return new io.swagger.v3.oas.models.info.Contact().name("Mallikarjun").url("https://github.com/MallikarjunChonde").email("mallikarjun89@gmail.com");
+		return new io.swagger.v3.oas.models.info.Contact().name("Mallikarjun").url("https://github.com/MallikarjunChonde").email("mallikarjunchonde89@gmail.com");
 		
 	}
 	
